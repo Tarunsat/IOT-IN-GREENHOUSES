@@ -7,3 +7,5 @@ The goal of this project is to use a Raspberry Pi and various sensors, including
 The suggested system gives users access to real-time information about the greenhouse's environmental conditions and lets them remotely adjust those conditions to enhance plant growth and yield. While the humidity sensor gauges the amount of humidity, the temperature sensor gauges the temperature inside the greenhouse.
 
 In order to find items or people inside the greenhouse, an ultrasound sensor is used. The Raspberry Pi receives the collected data and processes it before displaying it on a web-based interface that can be accessed from any device with an internet connection. Through this project, farmers and horticulturists can easily implement a cost-effective and effective solution for greenhouse monitoring and management.
+
+<img width="405" alt="image" src="https://github.com/Paragben/IOT-IN-GREENHOUSES/assets/106899303/843d1dff-d47b-4926-83e8-8a30ce943da3">
