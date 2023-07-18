@@ -9,3 +9,5 @@ The suggested system gives users access to real-time information about the green
 In order to find items or people inside the greenhouse, an ultrasound sensor is used. The Raspberry Pi receives the collected data and processes it before displaying it on a web-based interface that can be accessed from any device with an internet connection. Through this project, farmers and horticulturists can easily implement a cost-effective and effective solution for greenhouse monitoring and management.
 
 <img width="405" alt="image" src="https://github.com/Paragben/IOT-IN-GREENHOUSES/assets/106899303/843d1dff-d47b-4926-83e8-8a30ce943da3">
+
+![image](https://github.com/Paragben/IOT-IN-GREENHOUSES/assets/106899303/eba346c5-4769-453d-a052-2d461691f292)
